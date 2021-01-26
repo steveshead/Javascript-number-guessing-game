@@ -1,4 +1,4 @@
-#Javascript Number Guessing Game
+# Javascript Number Guessing Game
 This is a simple number guessing game.
 
 - Guess a number between 1 and 20
