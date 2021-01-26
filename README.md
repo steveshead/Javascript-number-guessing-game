@@ -6,3 +6,6 @@ This is a simple number guessing game.
 - Change UI when you win.
 
 Again, simple.
+
+
+![alt text](js-number-guessing-game.png)
